@@ -30,3 +30,10 @@ Key Metrics (ETB)
 Year-over-Year Revenue Growth (2015 to 2016 EC): ~47%
 
 This analysis helps in understanding market dynamics and provides a foundation for strategic decision-making.
+
+<img width="766" alt="image" src="https://github.com/user-attachments/assets/d2543c5a-7658-4b03-98eb-fdc065623d15" />
+<img width="755" alt="image" src="https://github.com/user-attachments/assets/42d202d2-6df3-44d0-827e-1d7da269eee5" />
+<img width="504" alt="image" src="https://github.com/user-attachments/assets/27e1a0d9-60f7-4315-98ba-c53b4cf9ba92" />
+
+
+
