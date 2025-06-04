@@ -14,8 +14,6 @@ Portfolio concentration and key operational observations.
 Contents
 Data:  Raw sales data for 2015 EC and 2016 EC.
 
-Analysis Scripts/Notebooks: (Optional: if you have separate analysis files) Scripts or notebooks used for data processing and analysis.
-
 Visualizations:
 
 An interactive sales dashboard providing a dynamic view of the sales data.
